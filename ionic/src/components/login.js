@@ -127,7 +127,7 @@ function Login() {
                 <Grid classesName={classes.emailInput}>
                   <input
                     type="password"
-                    placeholder="password"
+                    placeholder="Password"
                     className={classes.input}
                   />
                 </Grid>
